@@ -1,0 +1,35 @@
+body {
+  margin: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.per-img {
+  width: 150px;
+  background-color: #d8cefe;
+}
+
+.main {
+  display: flex;
+  padding: 20px;
+  justify-content: space-around;
+  width: 500px;
+  margin: 0px auto;
+  text-align: center;
+  background-color: #ddebf8;
+  border-bottom: 7px solid #d8cefe;
+  color: #2b2839;
+}
+
+.second {
+  display: block;
+}
+
+.border-blue {
+  border: 1px dotted blue;
+}
+
+
+
+
+
+
